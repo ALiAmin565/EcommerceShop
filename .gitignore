@@ -5,6 +5,7 @@
 /storage/app/*
 /vendor
 .vscode
+.env
 .idea
 .env.backup
 .phpunit.result.cache
